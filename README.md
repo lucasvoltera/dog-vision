@@ -1,6 +1,6 @@
 # dog-vision
 
-## Using Transfer Learning and TensorFlow 2.0 to Classify Different Dog Breeds
+## Utilizando Transfer Learning e TensorFlow para Classificar Diferentes Raças de Cachorros
 
 ### Quem é aquele doguinho na janela?
 
